@@ -1,3 +1,1 @@
-# 飞机师的风衣
-
-![pilot](img/pilot.jpg)
+<div align="center"> <img src="https://metrics.lecoq.io/iuxt?template=classic&config.timezone=Asia%2FShanghai"> </div>
